@@ -83,5 +83,5 @@ Conversion of a static PHP website to WordPress (CMS), including multilingual su
 2. Documentation of redirects/SEO changes.  
 3. Post-migration support (1 month).  
 
-**Prepared by:** [Your Name]  
-**Date:** [Today's Date]  
+**Prepared by:** Marco Maffei
+**Date:** 22-07-2025
