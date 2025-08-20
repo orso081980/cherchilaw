@@ -72,10 +72,6 @@ Various updates including adding team members and reorganizing the Expertise sec
 
 ## Total Estimated Effort
 
-- Initial Migration: **4 hours**  
-- Final Server Migration: **8 hours**  
-- Static-to-WordPress Conversion: **24 hours**
-
 **Total: 40 hours**
 
 ---
@@ -95,11 +91,9 @@ Various updates including adding team members and reorganizing the Expertise sec
 ## Deliverables
 
 1. Fully functional WordPress site with 4 languages  
-2. Documentation of redirects/SEO changes
+2. Documentation, redirects/SEO changes, google products, cookie banners, user security and CMS capabilities
 
 **Prepared by:** Marco Maffei  
 **Date:** 20-08-2025
 
 ---
-
-Let me know if you'd like this version exported or styled for presentation.
