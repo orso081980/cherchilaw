@@ -29,7 +29,8 @@ Refactoring and **maintenance** of the website [https://www.cherchilaw.com/](htt
 
 **Scope:**
 
-- Set up a new server on foxconcept.be with different services and programming languages  
+- Set up a new server on foxconcept.be with different services and programming languages
+- Clean logos, favicon, font style, syntax error and set up all the missing page for the 4 languages
 - Migration from a local computer to foxconcept.be  
 - Review and apply changes received via email and whatsup (banners, team members, hide or remove pages, update sections and text)  
 - DNS/SSL checks  
@@ -51,7 +52,8 @@ Refactoring and **maintenance** of the website [https://www.cherchilaw.com/](htt
 - Plugin setup (multilingual, SEO, security)  
 - Set up 4 different languages (based on the older website) and add content  
 - Sitemap, SEO, redirection for dead pages, Google Analytics, Google Tag Manager, Google Search Console, and Axeptio  
-- 4 main pages plus specific pages for **expertise**  
+- 4 main pages plus specific pages for **expertise**
+- Improve performance (lighhouse metrix), compress images or make them in svg/webp, minimize scripts and css (style)
 - Live setup (replace the older site, connect the new url with different services (brevo, google, axeptio) and Ahrefs for tracking SEO) (09.02.2025)
 
 **Estimation:** 24 hours (core development)
