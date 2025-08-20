@@ -31,7 +31,7 @@ Refactoring and **maintenance** of the website [https://www.cherchilaw.com/](htt
 
 - Set up a new server on foxconcept.be with different services and programming languages  
 - Migration from a local computer to foxconcept.be  
-- Review and apply changes received via email (banners, team members, hide or remove pages, update sections and text)  
+- Review and apply changes received via email and whatsup (banners, team members, hide or remove pages, update sections and text)  
 - DNS/SSL checks  
 - Mediation week banners
 
