@@ -52,7 +52,7 @@ Refactoring and **maintenance** of the website [https://www.cherchilaw.com/](htt
 - Set up 4 different languages (based on the older website) and add content  
 - Sitemap, SEO, redirection for dead pages, Google Analytics, Google Tag Manager, Google Search Console, and Axeptio  
 - 4 main pages plus specific pages for **expertise**  
-- Go live (09.02.2025)
+- Live setup (replace the older site, connect the new url with different services (brevo, google, axeptio) and Ahrefs for tracking SEO) (09.02.2025)
 
 **Estimation:** 24 hours (core development)
 
