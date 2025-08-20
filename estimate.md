@@ -1,87 +1,105 @@
-# Project Estimation: cherchilaw.com Migration & WordPress Conversion  
+# Project Estimation: cherchilaw.com Migration & WordPress Conversion
 
-## Project Summary  
-Conversion of a static PHP website to WordPress (CMS), including multilingual support, SEO, and integrations.  
+## Project Summary
 
----
-
-## Tasks & Timeline  
-
-### 1. Initial Migration (OVH → Localhost)  
-**Date:** 05.09.23  
-**Scope:**  
-- Transfer files from OVH server to localhost.  
-- Compare with archived version (Cédric Ndjoni’s ZIP).  
-**Estimation:** 3-4 hours (file integrity check).  
+Refactoring and **maintenance** of the website [https://www.cherchilaw.com/](https://www.cherchilaw.com/)
 
 ---
 
-### 2. Plesk Panel Configuration  
-**Panel:** [plesk.foxconcept.be:8443](https://plesk.foxconcept.be:8443/)  
-**Scope:**  
-- Set up PHP, MySQL, SSL, and WordPress prerequisites.  
-**Estimation:** 2 hours.  
+## Tasks & Timeline
+
+### 1. Initial Migration (OVH → Localhost)
+
+**Start Date:** 03.09.23  
+
+**Scope:**
+
+- Transfer files from OVH server to a local computer.  
+- Compare with archived version (Cédric Ndjoni’s ZIP) to check consistency and fix errors.
+
+**Estimation:** 4 hours (file integrity check and migration).
 
 ---
 
-### 3. Final Server Migration (Localhost → Foxconcept)  
-**Date:** 23.09.23  
-**Scope:**  
-- Deploy files, folders, and media to Foxconcept server.  
-- Verify WordPress functionality post-migration.  
-**Estimation:** 4-5 hours (DNS/SSL checks included).  
+### 2. Final Server Migration (Localhost → Foxconcept)
+
+**Panel:** [plesk.foxconcept.be:8443](https://plesk.foxconcept.be:8443/)
+
+**Start Date:** 25.09.23  
+
+**Scope:**
+
+- Set up a new server on foxconcept.be with different services and programming languages  
+- Migration from a local computer to foxconcept.be  
+- Review and apply changes received via email (banners, team members, hide or remove pages, update sections and text)  
+- DNS/SSL checks  
+- Mediation week banners
+
+**Estimation:** 8 hours
 
 ---
 
-### 4. Static-to-WordPress Conversion  
-**Key Deliverable:** Transform static PHP → WordPress CMS.  
-**Scope:**  
-- Theme/template development (or adaptation).  
-- Content porting (manual entry or script-assisted).  
-- Plugin setup (multilingual, SEO, security).  
-**Estimation:** 20-30 hours (core development).  
+### 3. Static-to-WordPress Conversion
+
+**Key Deliverable:** Transform static PHP → WordPress CMS  
+
+**Start Date:** 11.04.24  
+
+**Scope:**
+
+- Theme/template development (or adaptation)  
+- Plugin setup (multilingual, SEO, security)  
+- Set up 4 different languages (based on the older website) and add content  
+- Sitemap, SEO, redirection for dead pages, Google Analytics, Google Tag Manager, Google Search Console, and Axeptio  
+- 4 main pages plus specific pages for **expertise**  
+- Go live (09.02.2025)
+
+**Estimation:** 24 hours (core development)
 
 ---
 
-### 5. Content Updates & Mediation Week Banner  
-**Dates:** 27.09.23 / 13.11.23  
-**Scope:**  
-- Implement client-requested changes to old static site.  
-- **Specific Task:**  
-  - Create "Gentile Qui la brochure della mediation week 2023" banner + page.  
-**Estimation:** 3 hours (design + integration).  
+### 6. Post-Launch Updates
 
----
-
-### 6. Post-Launch Updates (03.07.23)  
 **Live WordPress Site:**  
 - [Sitemap](https://www.cherchilaw.com/page-sitemap1.xml) | [Homepage](https://www.cherchilaw.com/)  
+
 **Scope:**  
-- **Multilingual (4 languages):** WPML/Polylang configuration.  
-- **SEO:** Redirects for dead links, metadata, sitemap.  
-- **Integrations:**  
-  - Google Analytics, Search Console, Ahrefs.  
-  - GDPR: Axeptio, Privacy Policy, Google Tag Manager.  
-**Estimation:** 8-10 hours (audit + implementation).  
+Various updates including adding team members and reorganizing the Expertise section
+
+**Estimation:** 4 hours
 
 ---
 
-## Total Estimated Effort  
-**Core WordPress Migration:** 20-30 hours  
-**Additional Tasks:** 20-25 hours  
-**Total:** **40-55 hours**  
+## Total Estimated Effort
+
+- Initial Migration: **4 hours**  
+- Final Server Migration: **8 hours**  
+- Static-to-WordPress Conversion: **24 hours**
+
+**Total: 40 hours**
 
 ---
 
-## Key Notes  
-1. **Static-to-CMS Complexity:** Manual content entry may increase time.  
-2. **Multilingual:** Ensure plugin compatibility (e.g., Polylang).  
-3. **SEO Preservation:** 301 redirects for old static URLs critical.  
+## Key Notes
 
-## Deliverables  
-1. Fully functional WordPress site with 4 languages.  
-2. Documentation of redirects/SEO changes.  
-3. Post-migration support (1 month).  
+1. **Static-to-CMS Complexity:** Manual content entry may increase time  
+2. **Multilingual:** Translate each page into multiple languages  
+3. **SEO Preservation:**  
+   - 301 redirects for old static URLs are critical  
+   - Google Analytics, Google Search Console, Google Tag Manager  
+   - Axeptio integration  
+   - Connect cookie banner and consent settings with Google Tag Manager (to display cookies only upon user consent)
 
-**Prepared by:** Marco Maffei
-**Date:** 22-07-2025
+---
+
+## Deliverables
+
+1. Fully functional WordPress site with 4 languages  
+2. Documentation of redirects/SEO changes
+
+**Prepared by:** Marco Maffei  
+**Date:** 20-08-2025
+
+---
+
+Let me know if you'd like this version exported or styled for presentation.
